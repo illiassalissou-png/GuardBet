@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.GuardBet" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B1B2E</item>
+        <item name="colorPrimaryDark">#0F0F1A</item>
+        <item name="colorAccent">#FFD966</item>
+    </style>
+</resources>
